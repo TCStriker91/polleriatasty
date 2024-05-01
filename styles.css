@@ -203,9 +203,9 @@ html {
 /* ********************************** */
 .banner {
 	background-image: linear-gradient(100deg, #000000, #00000020),
-		url(/img/pollo\ al\ a\ brasa\ banner.avif);
+		url(https://i0.wp.com/actualidadavipecuaria.com/wp-content/uploads/2020/03/pollo-a-la-brasa-rico-peru.jpg?fit=1200%2C675&ssl=1);
 	height: 60rem;
-	background-size: contain;
+	background-size: contain;	
 	background-position: 90%;
 	background-repeat: no-repeat;
 	background-color: #000;
